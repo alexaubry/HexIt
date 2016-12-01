@@ -2,19 +2,19 @@
 
 Decimal to/from Hexadecimal Converter for Atom.
 
-![Demo](assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/alexaubry/HexIt/master/assets/demo.gif)
 
 ## Install
 
 With the Atom Package Manager:
 
 ```bash
-apm install hex-it
+apm install hexit
 ```
 
 You can also install it directly from Atom:
 
-> Settings ➔ Packages ➔ Search for `hex-it`
+> Settings ➔ Packages ➔ Search for `hexit`
 
 ## Usage
 
