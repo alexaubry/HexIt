@@ -1,0 +1,42 @@
+{
+    "context-menu": {
+        "atom-text-editor": [
+            {
+                "label": "Convert to hexadecimal",
+                "command": "hex-it:hex"
+            },
+            {
+                "label": "Convert to hexadecimal with a prefix",
+                "command": "hex-it:hex-prefix"
+            },
+            {
+                "label": "Convert to decimal",
+                "command": "hex-it:decimal"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "HexIt",
+                    "submenu": [
+                        {
+                            "label": "Convert to hexadecimal",
+                            "command": "hex-it:hex"
+                        },
+                        {
+                            "label": "Convert to hexadecimal with a prefix",
+                            "command": "hex-it:hex-prefix"
+                        },
+                        {
+                            "label": "Convert to decimal",
+                            "command": "hex-it:decimal"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
