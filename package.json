@@ -1,7 +1,7 @@
 {
   "name": "HexIt",
   "main": "./lib/hex-it",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Decimal to/from Hexadecimal Converter",
   "keywords": [
     "hex",
