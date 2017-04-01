@@ -12,7 +12,6 @@
   "activationCommands": {
     "atom-workspace": {
       "ctrl-shift-h": "hex-it:hex",
-      "ctrl-alt-shift-h": "hex-it:hex-prefix",
       "ctrl-shift-d": "hex-it:decimal"
     }
   },
